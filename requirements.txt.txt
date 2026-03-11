@@ -1,0 +1,6 @@
+SpeechRecognition
+PyAudio
+
+Assim quem baixar o projeto só precisa rodar:
+
+pip install -r requirements.txt
