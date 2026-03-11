@@ -35,3 +35,21 @@ Depois instale as dependências: pip install -r requirements.txt
 Execute o arquivo Python:
 
 python assistente.py
+
+
+
+##  Comandos de voz
+
+- "abrir navegador"
+- "abrir excel"
+- "abrir powerpoint"
+- "fechar"
+
+
+
+##  Melhorias futuras
+
+- Adicionar mais comandos de voz
+- Pesquisa no Google
+- Abrir sites automaticamente
+- Interface gráfica
