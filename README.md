@@ -26,6 +26,7 @@ Projeto simples de assistente de voz desenvolvido com Python que reconhece a fal
 Clone o repositório:
 
 git clone https://github.com/seu-usuario/voice-assistant-python
+
 Depois instale as dependências: pip install -r requirements.txt
 
 
