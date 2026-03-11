@@ -4,7 +4,7 @@ Projeto simples de assistente de voz desenvolvido com Python que reconhece a fal
 
 
 
-#  Funcionalidades
+##  Funcionalidades
 
 - Reconhecimento de voz
 - Abrir navegador
@@ -13,7 +13,7 @@ Projeto simples de assistente de voz desenvolvido com Python que reconhece a fal
 - Encerrar o programa por comando de voz
 
 
-#  Tecnologias
+##  Tecnologias
 
 - Python
 - SpeechRecognition (biblioteca para reconhecimento de voz)
@@ -21,7 +21,7 @@ Projeto simples de assistente de voz desenvolvido com Python que reconhece a fal
 - OS (execução de comandos do sistema)
 
 
-#  Instalação
+##  Instalação
 
 Clone o repositório:
 
@@ -30,7 +30,7 @@ git clone https://github.com/seu-usuario/voice-assistant-python
 Depois instale as dependências: pip install -r requirements.txt
 
 
-#  Como executar
+##  Como executar
 
 Execute o arquivo Python:
 
@@ -38,7 +38,7 @@ python assistente.py
 
 
 
-#  Comandos de voz
+##  Comandos de voz
 
 - "abrir navegador"
 - "abrir excel"
@@ -47,7 +47,7 @@ python assistente.py
 
 
 
-#  Melhorias futuras
+##  Melhorias futuras
 
 - Adicionar mais comandos de voz
 - Pesquisa no Google
